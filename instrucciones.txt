@@ -1,0 +1,6 @@
+Se debe inciar secion o registrarse para agregar, modificar, borrar articulos y agregar y autorizar comentarios.
+usuario admin
+pama.carlos.g@gmail.com password 123
+
+usuario
+palma.carlos.g@gmail.com pasword 123
